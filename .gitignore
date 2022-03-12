@@ -112,3 +112,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+NLP BERT/model/pytorch_model.bin
